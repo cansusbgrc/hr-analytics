@@ -4,14 +4,7 @@ Bu repository, çalışan devir oranını (turnover)
 incelemek amacıyla gerçekleştirdiğim bir İnsan Kaynakları 
 veri analizi çalışmasını içermektedir.
 
-Çalışma boyunca analiz süreci uçtan uca 
-tarafımca yürütülmüş; veri temizleme,
-temel istatistiksel analizler 
-ve görselleştirmeler üzerinden sonuçlara ulaşılmıştır.
-
-Projenin odağı,İnsan Kaynakları perspektifinden 
-yorumlanabilir ve karar destekleyici çıkarımlar üretmektir.
-
+Çalışma boyunca analiz süreci uçtan uca tarafımca yürütülmüş; veri temizleme,temel istatistiksel analizler ve görselleştirmeler üzerinden sonuçlara ulaşılmıştır.
 
 Çalışmanın Amacı:
 Bu çalışmada aşağıdaki sorulara yanıt aranmıştır:
@@ -39,8 +32,7 @@ Yapılan Analizler:
 	•	Ayrılan ve kalan çalışanların memnuniyet skorlarının karşılaştırılması
 	•	Bulguların temel grafiklerle görselleştirilmesi
 
-Analizler sırasında ileri seviye modelleme 
-veya tahminleme yapılmamış, sonuçlar doğrudan 
+Analizler sırasında sonuçlar doğrudan 
 veri üzerinden yorumlanmıştır.
 
 
@@ -52,9 +44,6 @@ Analiz sonuçlarına dayanarak şu alanlar öne çıkmaktadır:
 	•	Kariyer gelişimi ve ilerleme yollarının daha net tanımlanması
 	•	Çalışan bağlılığını ölçmeye yönelik kalma mülakatlarının değerlendirilmesi
 
-Bu öneriler, yapılan analizlerin doğal çıktılarıdır 
-ve proje kapsamında teorik veya otomatik karar 
-mekanizmaları oluşturulmamıştır.
 
 
 Kullanılan Araçlar ve Teknolojiler
