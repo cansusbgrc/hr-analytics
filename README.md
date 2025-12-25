@@ -43,10 +43,6 @@ Analizler sırasında ileri seviye modelleme
 veya tahminleme yapılmamış, sonuçlar doğrudan 
 veri üzerinden yorumlanmıştır.
 
-Bulgular
-	•	Ayrılmaların özellikle Mühendislik ve Satış departmanlarında yoğunlaştığı görülmüştür.
-	•	Memnuniyet skoru ile ayrılma kararı arasında güçlü bir korelasyon tespit edilmemiştir.
-	•	Bu durum, çalışan ayrılmalarının yalnızca iç memnuniyetsizlikle değil; piyasa koşulları, kariyer beklentileri ve işin doğası gibi faktörlerle de ilişkili olabileceğini düşündürmektedir.
 
 Değerlendirme ve Öneriler
 
